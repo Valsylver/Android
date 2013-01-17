@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Projet_Android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="application_name">Batiments de la Défense</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_section3">Favoris</string>
+    <string name="title_section2">Carte</string>
+    <string name="title_section1">Liste</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_activity_lieu_detail">LieuDetailActivity</string>
+    <string name="button_favori_ajout">Ajouter aux favoris</string>
+    <string name="button_favori_suppression">Supprimer favoris</string>
+    <string name="map_detail_favoris">Favoris</string>
+    <string name="map_detail_yaller">Y aller</string>
+    <string name="map_detail_details">Détails</string>
+    <string name="map_detail_close">Fermer</string>
+    <string name="lieu_detail_yaller">Y aller</string>
+    <string name="lieu_detail_carte">Carte</string>
+    <string name="title_activity_lol">LOL</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+
+</resources>
